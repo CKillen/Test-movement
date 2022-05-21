@@ -3,7 +3,7 @@ import replace from '@rollup/plugin-replace';
 
 export default defineConfig({
   // Replace that <> parts with your own project's information
-  base: "https://<github-account-name>.github.io/<repo-name>/",
+  base: "https://CKillen.github.io/Test-movement/",
   build: {
     rollupOptions: {
       plugins: [
